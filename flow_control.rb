@@ -61,3 +61,5 @@ elsif (y + 1) == x
 else
   puts "Alrighty!"
 end
+
+#5 There isn't an end on the if statement.
